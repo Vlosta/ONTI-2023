@@ -1,0 +1,17 @@
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\bin\Debug\ONTI 2023.exe.config
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\bin\Debug\ONTI 2023.exe
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\bin\Debug\ONTI 2023.pdb
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI 2023.csproj.AssemblyReference.cache
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI_2023.Form1.resources
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI_2023.Properties.Resources.resources
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI 2023.csproj.GenerateResource.cache
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI 2023.csproj.CoreCompileInputs.cache
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI 2023.exe
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI 2023.pdb
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\bin\Debug\MessagingToolkit.QRCode.dll
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI 2023.csproj.Up2Date
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI_2023.Form2.resources
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI_2023.Form3.resources
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI_2023.Form4.resources
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI_2023.Form5.resources
+G:\C# Rezolvari\ONTI 2023\ONTI 2023\ONTI 2023\obj\Debug\ONTI_2023.Form6.resources
